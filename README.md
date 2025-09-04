@@ -1,9 +1,9 @@
-# My Project
+# ASSISNMENT_UI
 
-A component library built with React, TypeScript, and Storybook.
+A React + TypeScript UI component assignment project with Storybook integration.  
+The goal is to build and showcase reusable components in isolation using Storybook.
 
-## 🚀 Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/my-project.git
-   cd my-project
+---
+
+## 📂 Folder Structure
+
